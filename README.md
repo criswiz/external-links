@@ -17,6 +17,8 @@ Open http://localhost:3000/stackit/privacy to view the StackIt privacy policy.
 
 ## Add another app or page
 
+See `APP_STRUCTURE_AND_PROCESS.md` for the full structure and publishing checklist.
+
 1. Open `src/content/apps.ts`.
 2. Add a new app entry with a unique `slug`.
 3. Add pages under that app's `pages` array.
